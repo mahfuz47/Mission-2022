@@ -59,10 +59,6 @@ body {
     border-radius: 10px;
 }
 
-.first-button:hover {
-    background-image: linear-gradient(45deg, rgb(133, 0, 133), rgb(150, 0, 150));
-}
-
 .description-text2 {
     margin-top: 2em;
 }
@@ -176,10 +172,6 @@ body {
     background-image: linear-gradient(-45deg, darkmagenta, rgb(192, 0, 192));
 }
 
-.third-part-button:hover {
-    background-image: linear-gradient(45deg, rgb(133, 0, 133), rgb(150, 0, 150));
-}
-
 
 /* Forth Part*/
 
@@ -280,8 +272,4 @@ body {
     border: 2px solid #d8006c;
     border-radius: 15px;
     background-color: #FF0080;
-}
-
-.last-button:hover {
-    background-color: #e60073;
 }
